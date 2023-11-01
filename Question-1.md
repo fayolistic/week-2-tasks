@@ -21,7 +21,7 @@ You cannot use any third party modules. i.e You should not modify the package.js
 
 ## Example input
 
-```js
+```js  
 const input = [
   {
     name: "Hendrick",
